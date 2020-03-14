@@ -17,7 +17,7 @@ footer{
     margin: 0px auto;
 }
 .container{
-    height: calc(100vh - 400px);
+    min-height: calc(100vh - 400px);
 }
 .container-footer-all{
     width: 100%;
